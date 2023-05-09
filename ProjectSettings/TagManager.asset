@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Fruits
+  - Enemy
+  - EndPoint
+  - EnemyFinisher
+  - Bullet
+  - Trap
+  - NonKillableEnemy
+  - AmmoFiller
+  - Fan
+  - HealthAdder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Terrain
+  - Water
+  - UI
+  - Player
+  - Fruits
+  - Tramboline
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 1744434971
+    locked: 0
+  - name: Enemy
+    uniqueID: 1174195837
+    locked: 0
+  - name: Player
+    uniqueID: 1705693983
+    locked: 0
+  - name: Fruits
+    uniqueID: 3647545331
+    locked: 0
